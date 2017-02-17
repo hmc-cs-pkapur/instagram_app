@@ -16,3 +16,13 @@ Used the following video to create this website: https://www.youtube.com/watch?v
 
 ###New Post Page###
 ![home](https://github.com/hmc-cs-pkapur/instagram_app/blob/master/Screenshots/newpost.png)
+
+###Logged in Page###
+![home](https://github.com/hmc-cs-pkapur/instagram_app/blob/master/Screenshots/signedin.png)
+
+###Logged out Page###
+![home](https://github.com/hmc-cs-pkapur/instagram_app/blob/master/Screenshots/signedout.png)
+
+
+##New Functionality##
+Added the nice and colorful "Welcome to Instagram" at the top, using a new list item with style
