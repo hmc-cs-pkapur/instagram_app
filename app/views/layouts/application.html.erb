@@ -5,6 +5,7 @@
 	<%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>
 	<%= javascript_include_tag "application", "data-turbolinks-track" => true %>
 	<%= csrf_meta_tags %>
+	<!-- <link href="style.css" rel="stylesheet" type="text/css"> -->
 </head>
 <body>
 	<!-- Navigation -->
@@ -38,6 +39,9 @@
 						<%= link_to "Register", new_user_registration_path %>
 					</li>
 					<% end %>
+					<li style="color:lightblue;margin-left:30px;">
+					<h1> Welcome to Instagram </h1>
+					</li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
